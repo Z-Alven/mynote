@@ -1,0 +1,38 @@
+bash -c "$(curl -sLk https://ddsrem.com/xiaoya_install.sh)" 
+阿里云盘：https://alist.nn.ci/zh/guide/drivers/aliyundrive.html
+阿里云open：https://alist.nn.ci/tool/aliyundrive/request
+
+Token: 32f142b34cb646e488e7dc0061c0c60f
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0ZWViOWVlNjUwYjM0MWQ3YTkxMDliZjE5NzI4YmIyYiIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzIzMzg2MzU3LCJpYXQiOjE3MTU2MTAzNTcsImp0aSI6IjIxMDBjYmU5ZTE2NTRiZDlhMDEwZmVjNDU0NmY2MjVhIn0.HN83D90qHzOClQL-1U6MeEKJc6TSpS6_Xhh133IlqPm-ZBgF8GvI2ey3IYtywB8aqpcVlKtRnqBnWzpPDUFw8A
+
+66422281ace9e6fe532740fb99f676664bc1a670
+
+
+resilio自动同步密钥：账号：admin	密码：zaw357159
+[INFO] 请浏览器访问 http://IP:8888 进行 Resilio 设置并自行添加下面的同步密钥：
+/每日更新/电视剧 （保存到 /sync/xiaoya/每日更新/电视剧 ）
+BHB7NOQ4IQKOWZPCLK7BIZXDGIOVRKBUL
+/每日更新/电影 （保存到 /sync/xiaoya/每日更新/电影 ）
+BCFQAYSMIIDJBWJ6DB7JXLHBXUGYKEQ43
+/电影/2023 （保存到 /sync/xiaoya/电影/2023 ）
+BGUXZBXWJG6J47XVU4HSNJEW4HRMZGOPL
+/纪录片（已刮削） （保存到 /sync/xiaoya/纪录片（已刮削） ）
+BDBOMKR6WP7A4X55Z6BY7IA4HUQ3YO4BH
+/音乐 （保存到 /sync/xiaoya/音乐 ）
+BHAYCNF5MJSGUF2RVO6XDA55X5PVBKDUB
+/每日更新/动漫 （保存到 /sync/xiaoya/每日更新/动漫 ）
+BQEIV6B3DKPZWAFHO7V6QQJO2X3DOQSJ4
+/每日更新/动漫剧场版 （保存到 /sync/xiaoya/每日更新/动漫剧场版 ）
+B42SOXBKLMRWHRZMCAIQZWNOBLUUH3HO3
+
+
+阿里DNS:
+vip1.alidns.com / vip2.alidns.com
+
+
+CLOUDFLARE    
+api：zkIe6C4oRzJ9jYfonblB17aOqra31Kdgo4kcCLM7
+DNS令牌：
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer zkIe6C4oRzJ9jYfonblB17aOqra31Kdgo4kcCLM7" \
+     -H "Content-Type:application/json"
